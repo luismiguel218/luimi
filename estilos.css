@@ -243,9 +243,6 @@ body{
    font-size: 4rem;
 }
 
-.products-preview .preview .fa-times:hover{
-   transform: rotate(90deg);
-}
 
 .products-preview .preview h3{
    color:#444;
